@@ -1,0 +1,10 @@
+/.venv
+/haarcascade_frontalface_default.xml
+/imagenes_FacialAge
+/imagenes_MVP
+/imagenes_UTK
+/model_ResNet50.keras
+/test
+/train
+/validate
+/__pycache__
