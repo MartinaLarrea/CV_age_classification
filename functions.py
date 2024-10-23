@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 def plotTraining(hist, epochs, typeData):
     
     if typeData=="loss":
